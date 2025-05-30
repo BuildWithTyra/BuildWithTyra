@@ -23,5 +23,9 @@ I enjoy breaking down complex cybersecurity projects and teaching them to others
 
 Email: BuildWithTyra@protonmail.com 
 
+🗨️ **Join The Study Lab on Discord** - a space for Cyber learning 
+
+[TheStudyLab](https://discord.gg/7qYDDbNx)
+
 🌱 Pronouns: She/Her
 

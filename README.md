@@ -1,24 +1,27 @@
-👋 Hi, I’m Tyra (@BuildWithTyra)
+# 👋 Hi, I’m Tyra (@BuildWithTyra)
 
- 🔒 I’m interested in:
-  - Cybersecurity
+ 🔒**Cybersecurity Student & Lab Builder**
+ 
+ 🎓 Currently pursuing a degree in Cybersecurity 
+
+ 🛡️ **Skills & Interest**
+ 
   -  Threat intelligence
-  -  GRC
-  -  Building hands-on labs to strengthen my skills.
-     
-🎓 I'm a cybersecurity student currently learning Security+ (SY0-701)
+  -  Governance, Risk, and Compliance (GRC)
+  -  Log Analysis
+  -  Hands-on Lab Development 
 
-🤝 I’m looking to:
-- Collaborate on study projects
+🤝 **Looking to Collaborate On:**
+- Cybersecurity study projects
 - Labs
-- Analyst or GRC-focused initatives.
-  
+- GRC-focused initatives.
+
+💡 **Fun fact:**
+I enjoy breaking down complex cybersecurity projects and teaching them to others. Sharing knowledge helps me learn and builds a stronger community.
+
 📫 How to reach me:
 
-BuildWithTyra@protonmail.com 
+Email: BuildWithTyra@protonmail.com 
 
 🌱 Pronouns: She/Her
 
-💡 Fun fact:
-
-Whatever cybersecurity project I'm working on, I love to breaking it down and teaching it to others. Sharing what i learn helps me grow and builds community along the way.

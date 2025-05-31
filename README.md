@@ -1,25 +1,14 @@
-# 👋 Hi, I’m Tyra (@BuildWithTyra)
+# Meet ✨ Tyra ✨
 
- 🔒**Cybersecurity Student & Lab Builder**
+ 🔒**Cybersecurity Learner & Project Builder**
  
- 🎓 Currently pursuing a degree in Cybersecurity 
-
- 🛡️ **Skills & Interest**
+ 🎯Passionate about GRC, Threat Analysis & Teaching Others
  
-  -  Threat intelligence
-  -  Governance, Risk, and Compliance (GRC)
-  -  Log Analysis
-  -  Hands-on Lab Development 
+ 💻 Sharing labs and portfolio projects openly on GitHub
 
-🤝 **Looking to Collaborate On:**
-- Cybersecurity study projects
-- Labs
-- GRC-focused initatives.
-
-💡 **Fun fact:**
-I enjoy breaking down complex cybersecurity projects and teaching them to others. Sharing knowledge helps me learn and builds a stronger community.
-
-📫 How to reach me:
+ ___
+ 
+📫 Let's Connect
 
 Email: BuildWithTyra@protonmail.com 
 
@@ -27,5 +16,7 @@ Email: BuildWithTyra@protonmail.com
 
 [TheStudyLab](https://discord.gg/7qYDDbNx)
 
-🌱 Pronouns: She/Her
+## 🔧 Projects I'm Proud Of
+-['honeypot-cowrie' ] (https://github.com/BuildWithTyra/honeypot-cowrie)-Deployed SSH honeypot with attack logging
 
+---
